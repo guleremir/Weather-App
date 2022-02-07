@@ -1,4 +1,4 @@
-# Weather-App
+# Weather-App with API
 Openweathermap api with JavaScript Application
 Sign up https://openweathermap.org/ and click on your profile 'My API Keys' copy the key and paste script.js 2nd line. And run app. 
 
